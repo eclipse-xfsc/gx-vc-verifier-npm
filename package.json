@@ -25,7 +25,7 @@
   "devDependencies": {
     "@digitalbazaar/ed25519-signature-2018": "^2.1.0",
     "@digitalbazaar/ed25519-verification-key-2018": "^3.2.0",
-    "@digitalcredentials/vc": "^4.1.1",
+    "@digitalcredentials/vc": "^10.0.0",
     "@nestjs/common": "^9.0.11",
     "@nestjs/swagger": "^6.1.2",
     "@types/uuid": "^8.3.4",
@@ -37,7 +37,7 @@
     "@nestjs/common": "^9.0.11",
     "@digitalbazaar/ed25519-signature-2018": "^2.1.0",
     "@digitalbazaar/ed25519-verification-key-2018": "^3.2.0",
-    "@digitalcredentials/vc": "^4.1.1",
+    "@digitalcredentials/vc": "^10.0.0",
     "@nestjs/swagger": "^6.1.2"
   },
   "publishConfig": {
