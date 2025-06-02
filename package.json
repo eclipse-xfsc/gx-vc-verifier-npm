@@ -12,7 +12,7 @@
   "author": "ehalca",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.7.14",
+    "@types/node": "^22.15.29",
     "class-validator": "^0.14.1",
     "ed25519-signature-2018-context": "^1.1.0",
     "jsonld-signatures": "^10.0.0",
